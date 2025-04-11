@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('https://elements-resized.envatousercontent.com/elements-video-cover-images/files/05186782-1f47-43c0-97a3-fc90441a15b6/inline_image_preview.jpg?w=500&cf_fit=cover&q=85&format=auto&s=f5bf81211b7916e7b3ae6bbb35d1715d80c0851eac284e60cdac66f59217a871')
+    background-color: black;
 }
 
 .container {
